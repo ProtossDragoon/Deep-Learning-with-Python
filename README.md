@@ -8,8 +8,8 @@
 
 <br>
 
-- 어떤 예제어서는 tensorflow 1 + keras 를 사용합니다.
-- 일부 예제에서는 tensorflow 2 + keras 를 사용합니다.
+- 대부분의 예제에서 tensorflow 1 + keras 를 사용합니다.
+- 일부 예제에서 tensorflow 2 + keras 를 사용합니다.
 
 <br>
 
